@@ -28,11 +28,11 @@ The programs cover basic concepts such as **conditional statements, loops, funct
 - Currency converter
 - Parking management
 - Phone password verification
-- Rapido fare calculation
 
 ### 🎟️ Mini Projects / Practice Programs
 - CineHall ticket booking
 - Guess the Number game
+- Rapido functions
 
 ### 🔧 C Programming Concepts
 - Functions
