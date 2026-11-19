@@ -15,6 +15,8 @@ The programs cover basic concepts such as **conditional statements, loops, funct
 - Check whether a number is divisible or not
 - Driving Licence (DL) eligibility
 - Find the greater of two numbers
+- Matrix Square
+- Magical Matrix
 
 ### 💰 Salary & Billing Programs
 - Electric bill calculator
@@ -33,6 +35,7 @@ The programs cover basic concepts such as **conditional statements, loops, funct
 - CineHall ticket booking
 - Guess the Number game
 - Rapido functions
+- Robot Movement
 
 ### 🔧 C Programming Concepts
 - Functions
