@@ -1,58 +1,31 @@
-# C Programming – Learning & Practice
+# C Programming Journey
 
-This repository contains the **C programs and small projects** I have created while learning C programming through lectures and practice.
+A collection of C programs written while learning the fundamentals of C programming. The programs are grouped by topic to make the repository easier to browse.
 
-The programs cover basic concepts such as **conditional statements, loops, functions, calculations, input/output, and problem-solving**.
+## Folder structure
 
-## 📚 Programs Included
+- **01 Basics** — 4 program(s)
+- **02 Operators and Calculations** — 5 program(s)
+- **03 Conditional Statements** — 11 program(s)
+- **04 Loops** — 3 program(s)
+- **05 Patterns** — 3 program(s)
+- **06 Arrays and Searching** — 4 program(s)
+- **07 Matrices** — 6 program(s)
+- **08 Strings** — 3 program(s)
+- **09 Functions and Recursion** — 4 program(s)
+- **10 Mini Projects** — 24 program(s)
 
-### Basic Programs
-- Check whether marks are above 80
-- Age calculator
-- Average of 3 numbers
-- BMI calculator
-- Convert uppercase to lowercase and lowercase to uppercase
-- Check whether a number is divisible or not
-- Driving Licence (DL) eligibility
-- Find the greater of two numbers
-- Matrix Square
-- Magical Matrix
+## Notes
 
-### 💰 Salary & Billing Programs
-- Electric bill calculator
-- Hospital bill calculator
-- Highest salary
-- Salary slip generator
+- These files represent my learning and practice progress.
+- The original program logic and source code have been preserved; this organisation does not include code corrections.
+- Some similarly named files (for example, numbered versions) are separate practice versions and have been kept.
+- Compiled executables, temporary output files, nested duplicate folders, and editor-specific settings are not included.
 
-### 🚗 Other Practical Programs
-- Number of students who passed/failed
-- Vehicle mileage calculator
-- Currency converter
-- Parking management
-- Phone password verification
+## How to compile and run
 
-### 🎟️ Mini Projects / Practice Programs
-- CineHall ticket booking
-- Guess the Number game
-- Rapido functions
-- Robot Movement
+Using GCC: `gcc filename.c -o program`
 
-### 🔧 C Programming Concepts
-- Functions
-- Data types
-- Basic input and output
-- Conditional statements
-- Arithmetic operations
-- Basic problem-solving
+Run on Windows: `program.exe`
 
-## 🎯 Purpose
-
-The main purpose of this repository is to **practice C programming concepts and track my learning progress** as I continue improving my programming skills.
-
-More programs and projects will be added as I learn new concepts.
-
----
-
-**Language:** C  
-**Level:** Beginner  
-**Status:** Learning & Improving 🚀
+Run on Linux/macOS: `./program`
